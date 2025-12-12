@@ -11,6 +11,7 @@ Developing a data model for a hotel management system requires a methodical proc
 |  2  | Trần Phúc Khang          |
 |  3  | Hoàng Văn Long           |
 |  4  | Bùi Gia Phú              |
+|  5  | Cao Vĩ Đạt               |
 
 # Feature
 
